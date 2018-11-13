@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interpol.Criminal">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAADAQAACCAAAAgkAAAEAAQABAAEAAAIAYAAGACAAxE=</HashCode>
+      <FileName>Criminal.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PhotoModel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Interpol.CriminalBase">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Delegate Name="Interpol.CriminalBase.Predicate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CriminalBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAQCAAAAACAAAIAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>CriminalBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Criminal" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Interpol.CriminalConstructor">
+    <Position X="9.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEEhAYBACmAwgIgoEpCAEUwDBAYJQAkAACBACASAiDA=</HashCode>
+      <FileName>CriminalConstructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpol.EditCriminal">
+    <Position X="13" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAIGAAAACAIAAAAAAAAAhAAAAAAA=</HashCode>
+      <FileName>EditCriminal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpol.Form1">
+    <Position X="13" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BIAgAAAIACAAAAAQAAGAAAACAAIBAAAAAAAIAAIgAAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CriminalConstructor" />
+      <Property Name="SearchCriminal" />
+      <Property Name="EditCriminal1" />
+      <Property Name="RemoveCriminal1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Interpol.PhotoModel">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAgBABgAgAAAMgAAAAAAAAAAAAABABAAAAAAAAAI=</HashCode>
+      <FileName>PhotoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpol.RemoveCriminal">
+    <Position X="13" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACgAAAAAAICAAgACAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>RemoveCriminal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpol.Saver">
+    <Position X="6.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Saver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpol.SearchCriminal">
+    <Position X="16.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIzCgFmaqCgUBQoI7CAIAkCDSSAUCgAABADGIKkAEA=</HashCode>
+      <FileName>SearchCriminal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,13 @@
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\bin\Debug\Interpol.exe.config
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\bin\Debug\Interpol.exe
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\bin\Debug\Interpol.pdb
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.Cache
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.exe
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.pdb
+c:\users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.Form1.resources
+C:\Users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.CriminalConstructor.resources
+C:\Users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.SearchCriminal.resources
+C:\Users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.RemoveCriminal.resources
+C:\Users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.EditCriminal.resources
+C:\Users\olehk\documents\visual studio 2012\Projects\Interpol\Interpol\obj\Debug\Interpol.csprojResolveAssemblyReference.cache
